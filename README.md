@@ -1,5 +1,5 @@
 # Displaying Well Log Parameters using Python
-A sample python code script that calculates the openhole volume of a wellbore between 100-150 meters from a LAS file. It uses 'lasio' to read the data, creates a caliper curve, and calculates volume using the bit size. It then plots the data with informative track titles, colors, and well information. Hence, it calculates the openhole volume and displays the plot.
+A sample Python script that calculates the openhole volume of a wellbore from 100 to 150 meters using a LAS file. The script uses lasio to parse the data, computes the volume using caliper and bit size curves, and generates a clearly labeled, multi-track plot of the results.
 ### Well Log Parameters Static Plot (Caliper, Calculated Openhole Volume and Gamma Ray)
 <img width="7200" height="9000" alt="Openhole Volume Calculation" src="https://github.com/user-attachments/assets/424c2104-4a30-47d6-89da-34d4af70d448" />
 
